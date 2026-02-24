@@ -1,6 +1,6 @@
 CONEXIÓN / PRESENCIA / EXCESO
 ==============================
-Obra audiovisual reactiva con visión por computador y glitch digital
+Obra audiovisual reactiva con visión por computador/reconocimiento facial y glitch digital
 
 
 
